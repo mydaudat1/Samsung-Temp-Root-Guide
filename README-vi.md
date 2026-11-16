@@ -114,3 +114,4 @@ Khi mã QR đã hiện:
 - **Bước 5**: Di chuyển lên dòng "Done" và bấm nút nguồn để xác nhận.
 
 ## Chúc bạn suôn sẻ!
+(Tìm ảnh trong /image)
