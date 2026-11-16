@@ -41,7 +41,7 @@ They're all the same.
 - The device's stock ROM.
 - Brokkr
 
-**Instructions**:
+**2: Instructions:**
 - **Step 1:** Extract the stock ROM file.
 - **Step 2:** Open Brokkr and enable Auto Reboot.
 - **Step 3:** In the AP slot, select the .tar file whose first two letters match the slot name (e.g., AP_XM510...)
@@ -49,12 +49,13 @@ They're all the same.
 - **Step 5:** Skip the USERDATA slot.
 - **Step 6:** Connect the USB cable to the device you're unbricking and start flashing (keep an eye on the device so it doesn't shut off by itself, which would cause the flash to fail).
 ## On PC
+**1: Preparation:**
 - A reliable USB cable that can transfer data.
 - A Windows PC.
 - The device already in Download Mode.
 - The device's stock ROM.
 - Odin.
-## Instructions:
+**2: Instructions:**
 - **Step 1:** Extract the stock ROM file.
 - **Step 2:** Open Odin and enable Auto Reboot.
 - **Step 3:** In the AP slot, select the .tar file whose first two letters match the slot name (e.g., AP_XM510...)
