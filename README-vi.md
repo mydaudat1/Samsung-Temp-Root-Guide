@@ -40,6 +40,7 @@ Như nhau.
 - Máy đã vào sẵn Download Mode.
 - ROM stock của máy.
 - Brokkr
+  
 **2: Hướng dẫn:**
 - **Bước 1:** Giải nén file ROM stock.
 - **Bước 2:** Vào Brokkr, bật Auto Reboot.
