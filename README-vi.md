@@ -12,12 +12,12 @@ DirtyFlag có hỗ trợ KernelSU gốc). Tuy nhiên 1 số tính năng sẽ kh�
 - **DFRoot/DirtyFlag**: Dùng DirtyFlag để exploit, ít tính năng nhưng chất lượng. Và không hỗ trợ KernelSU gốc (sad).
 ## Các root manager:
 Như nhau.
-## QUAN TRỌNG: Cách phòng chống unbrick:
+## QUAN TRỌNG: Cách phòng chống brick:
 ## 1: D2 Error:
 - **Giải thích**: Nếu bạn để mật khẩu (PIN) trên máy thì Download Mode sẽ bị chặn và không thể vào được khi bị brick. 
 - **Giải pháp**: Không để PIN.
 ## 2: Security Error:
-- **Giải thích**: Vì temp root khômg gây ảnh hưởng đến bootloader nên khi bạn flash bất cứ thứ gì tác động đến bootloader máy bạn sẽ bị lỗi này. May mắn là bạn sẽ không bị Knox trip.
+- **Giải thích**: Vì temp root không gây ảnh hưởng đến bootloader nên khi bạn flash bất cứ thứ gì tác động đến bootloader máy bạn sẽ bị lỗi này. May mắn là bạn sẽ không bị Knox trip.
 - **Giải pháp**: Flash ROM stock
 ## 3: Bootloop:
 - **Giải thích**: Module bạn flash bị lỗi, superuser vừa làm gì đó lỗi.
