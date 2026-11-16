@@ -2,7 +2,7 @@
 
 [English ver](https://github.com/mydaudat1/Samsung-Temp-Root-Guide/blob/main/README.md)
 
-[Bản tiếng Việt](https://github.com/mydaudat1/Samsung-Temp-Root-Guide/blob/main/REAME-vi.md)
+[Bản tiếng Việt](https://github.com/mydaudat1/Samsung-Temp-Root-Guide/blob/main/README-vi.md)
 
 Temp root on devices running OneUI 8+ has been quite popular lately, and as someone who has tried it and bricked a device, I'll share some tips with you.
 ## Choosing an exploit app:
