@@ -55,6 +55,7 @@ They're all the same.
 - The device already in Download Mode.
 - The device's stock ROM.
 - Odin.
+  
 **2: Instructions:**
 - **Step 1:** Extract the stock ROM file.
 - **Step 2:** Open Odin and enable Auto Reboot.
