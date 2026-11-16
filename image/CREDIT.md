@@ -6,4 +6,5 @@
 If there is anything you need to discuss, please contact me via:
 - Discord: mydaudat_dis12
 - Email: binhok106@gmail.com
+  
 Please forgive me if i reply late. 
