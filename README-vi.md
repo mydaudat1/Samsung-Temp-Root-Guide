@@ -40,7 +40,7 @@ Như nhau.
 - Máy đã vào sẵn Download Mode.
 - ROM stock của máy.
 - Brokkr
-**Hướng dẫn**:
+**2: Hướng dẫn:**
 - **Bước 1:** Giải nén file ROM stock.
 - **Bước 2:** Vào Brokkr, bật Auto Reboot.
 - **Bước 3:** Ở ô AP, chọn file .tar có 2 chữ cái đầu trùng với tên ô (ví dụ: AP_XM510...)
@@ -48,12 +48,13 @@ Như nhau.
 - **Bước 5**: Ô USERDATA bỏ.
 - **Bước 6**: Cắm USB vào máy cần unbrick và tiến hành flash (nên theo dõi máy để tránh máy tự tắt và khiến quá trình flash lỗi).
 ## Trên PC
+**1: Chuẩn bị:**
 - Một USB ổn định có thể truyền data.
 - Một PC Windows.
 - Máy đã vào sẵn Download Mode.
 - ROM stock của máy.
 - Odin.
-## Hướng dẫn:
+**2: Hướng dẫn:**
 - **Bước 1:** Giải nén file ROM stock.
 - **Bước 2:** Vào Odin, bật Auto Reboot.
 - **Bước 3:** Ở ô AP, chọn file .tar có 2 chữ cái đầu trùng với tên ô (ví dụ: AP_XM510...)
