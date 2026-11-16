@@ -1,4 +1,8 @@
 # Samsung Temp Root Guide
+[English ver](https://github.com/mydaudat1/Samsung-Temp-Root-Guide/blob/main/README.md)
+
+[Bản tiếng Việt](https://github.com/mydaudat1/Samsung-Temp-Root-Guide/blob/main/REAME-vi.md)
+
 Dạo gần đây temp root trên các máy chạy OneUI 8+ khá nổi, và với cương vị 1 đứa đã thử và đã brick - Tôi sẽ cho các bạn các tip.
 ## Lựa chọn app exploit:
 - **Root My Galaxy**: Cổ điển, tôn trọng nhưng hỗ trợ rất ít máy.
